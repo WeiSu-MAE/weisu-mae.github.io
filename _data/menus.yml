@@ -6,9 +6,9 @@
   url: /research/
   external: false # set true if you using external link, see below
 
--title: Team
-  url: /team/
-  external: false
+#-title: Team
+#  url: /team/
+#  external: false
 
 - title: Publications
   url: /publications/
