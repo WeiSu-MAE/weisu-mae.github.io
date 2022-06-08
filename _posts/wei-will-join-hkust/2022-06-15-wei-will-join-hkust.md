@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wei will join HKUST"
-date:   2022-06-15
+date:   2022-06-15 09:29:20 +0100
 categories: jekyll update
 ---
 
