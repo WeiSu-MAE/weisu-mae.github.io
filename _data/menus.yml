@@ -1,4 +1,4 @@
-- title: home
+- title: Home
   url: /
   external: false
 
@@ -6,11 +6,11 @@
   url: /research/
   external: false # set true if you using external link, see below
 
-#-title: team
-#  url: /team/
-#  external: false
+-title: Team
+  url: /team/
+  external: false
 
-- title: publications
+- title: Publications
   url: /publications/
   external: false
 
