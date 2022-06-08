@@ -184,8 +184,9 @@
           {%- endfor -%}
         {%- else -%}
           <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">home</a>
-          <a class="menu-link {% if url == '/research/' %}active{% endif %}" href="/about">research</a>
-          <a class="menu-link {% if url == '/publications/' %}active{% endif %}" href="/about">publications</a>
+          <a class="menu-link {% if url == '/research/' %}active{% endif %}" href="/research">research</a>
+          <a class="menu-link {% if url == '/team/' %}active{% endif %}" href="/team">team</a>
+          <a class="menu-link {% if url == '/publications/' %}active{% endif %}" href="/publications">publications</a>
         {%- endif -%}
         <!--<a class="menu-link rss" href="/feed.xml">
           <svg
