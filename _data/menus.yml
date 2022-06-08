@@ -2,15 +2,15 @@
   url: /
   external: false
 
-- title: Research
+- title: research
   url: /research/
   external: false # set true if you using external link, see below
 
--title: Team
+-title: team
   url: /team/
   external: false
 
-- title: Publications
+- title: publications
   url: /publications/
   external: false
 
