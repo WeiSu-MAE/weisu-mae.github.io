@@ -2,3 +2,6 @@ url: "http://su-researchgroup.com" # the base hostname & protocol for your site,
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "SU Group" # the name of your site, e.g. ACME Corp.
 description: "@ EMIA | MATH | HKUST"
+
+# Homepage limit posts
+number_of_posts: 2

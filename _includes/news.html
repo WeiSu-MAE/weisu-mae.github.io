@@ -7,7 +7,7 @@
       {% endfor %}
     {% else %}
       <h3 class="fw-bold">News</h3>
-      {% for post in site.posts %}
+      {% for post in site.posts limit: site.number_of_posts %}
         <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
       {% endfor %}
     {% endif %}
