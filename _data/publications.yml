@@ -7,9 +7,9 @@ featured:
    url: '/publications/1501.07274.pdf'}
 
 - {name: 'Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
-   author: 'W Su, L Zhu, L Wu',
-   journal: 'SIAM Journal on Scientific Computing',
-   volume: '42(6): B1517-B1540',
+   author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Computational Physics',
+   volume: '407: 109245',
    year: '2020',
    url: '/publications/1501.07274.pdf'}
 
