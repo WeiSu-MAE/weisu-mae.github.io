@@ -26,4 +26,5 @@ journal:
    journal: 'Physics of Fluids',
    volume: '34: 032010',
    year: '2022',
-   src: '/publications/J24.pdf'}
+   src: '/publications/J24.pdf',
+   doi: 'https://doi.org/10.1063/5.0086076'}
