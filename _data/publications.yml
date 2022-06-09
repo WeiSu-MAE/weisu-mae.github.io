@@ -214,13 +214,37 @@ journal:
    volume: '55: 2750-2756',
    year: '2012',
    src: '/publications/J1.pdf',
-   doi: 'https://doi.org/10.1016/10.1007/s11431-012-4913-7'}
+   doi: 'https://doi.org/10.1007/s11431-012-4913-7'}
 
 conference:
-- {title: '',
-   author: '',
-   conf: '',
-   year: '',
-   volume: '',
-   src: '',
-   doi: ''}
+- {title: 'Investigations of vibrational kinetic relaxation within air shock wave plasma',
+   author: 'W Su, D Bruno, Y Babou',
+   conf: '10th International Conference on Aerophysics and Physical Mechanics of Classical and Quantum Systems',
+   year: '2016',
+   volume: 'Journal of Physics: Conference Series, 815: 012026',
+   src: '/publications/C4.pdf',
+   doi: 'https://doi.org/10.1088/1742-6596/815/1/012026'}
+
+- {title: 'Vibrational specific simulation of nonequilibrium radiation from shock-heated air.',
+   author: 'W Su, D Bruno, Y Babou',
+   conf: '30th International Symposium on Rarefied Gas Dynamics',
+   year: '2016',
+   volume: 'AIP Conference Proceedings, 1786: 150001',
+   src: '/publications/C3.pdf',
+   doi: 'https://doi.org/10.1063/1.4967642'}
+
+- {title: 'A stable Runge-Kutta discontinuous Galerkin solver for hypersonic rarefied gaseous flows.',
+   author: 'W Su, B He, G Cai',
+   conf: '29th International Symposium on Rarefied Gas Dynamics',
+   year: '2014',
+   volume: 'AIP Conference Proceedings, 1628: 980-987',
+   src: '/publications/C2.pdf',
+   doi: 'https://doi.org/10.1063/1.4902700'}
+
+- {title: 'A Runge-Kutta discontinuous Galerkin solver for 2D Boltz- mann model equations: verification and analysis of computational performance.',
+   author: 'W Su, A Alexeenko, G Cai',
+   conf: '28th International Symposium on Rarefied Gas Dynamics',
+   year: '2012',
+   volume: 'AIP Conference Proceedings, 1501: 381-388',
+   src: '/publications/C1.pdf',
+   doi: 'https://doi.org/10.1063/1.4769547'}
