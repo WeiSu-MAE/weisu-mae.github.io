@@ -7,20 +7,6 @@ featured:
    src: '/publications/J20.pdf',
    doi: 'https://doi.org/10.1137/20M132691X'}
 
-- {name: 'Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
-   author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
-   journal: 'Journal of Computational Physics',
-   volume: '407: 109245',
-   year: '2020',
-   src: '/publications/1501.07274.pdf'}
-
-- {name: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
-   author: 'W Su, P Wang, Y Zhang, L Wu',
-   journal: 'Journal of Scientific Computing',
-   volume: '82: 39',
-   year: '2020',
-   src: '/publications/1501.07274.pdf'}
-
 journal:
   - {name: 'Temperature jump and Knudsen layer in rarefied molecular gas.',
    author: 'W Su, Q Li, Y Zhang, L Wu',
@@ -62,21 +48,21 @@ journal:
    src: '/publications/J20.pdf',
    doi: 'https://doi.org/10.1137/20M132691X'}
 
-  - {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+  - {name: 'Thermal transpiration in molecular gas',
+   author: 'P Wang, W Su, L Wu',
+   journal: 'Physics of Fluids',
+   volume: '32: 082005',
+   year: '2020',
+   src: '/publications/J19.pdf',
+   doi: 'https://doi.org/10.1063/5.0018505'}
 
-  - {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+  - {name: 'GSIS: an efficient and accurate numerical method to obtain the apparent gas permeability of porous media.',
+   author: 'W Su, M T Ho, Y Zhang, L Wu',
+   journal: 'Computers & Fluids',
+   volume: '206: 104576',
+   year: '2020',
+   src: '/publications/J18.pdf',
+   doi: 'https://doi.org/10.1016/j.compfluid.2020.104576'}
 
   - {name: '',
    author: '',
