@@ -3,8 +3,8 @@
     {% if page.title == "Home" %}
       <h3 class="fw-bold">Featured Publications</h3>
       {% for item in site.data.publications.featured %}
-        <p class="mb-0">
-          <span>{{ item.name }}. </span><span class="fst-italic">{{ item.journal }} </span><a href="{{ item.url }}">[pdf]</a>
+        <p class="mb-0 display-list-item">
+          <span>{{ item.name }} </span><span class="fst-italic">{{ item.journal }} </span><a href="{{ item.url }}">[pdf]</a>
         </p>
       {% endfor %}
     {% else %}
