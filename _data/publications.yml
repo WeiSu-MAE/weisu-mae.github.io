@@ -1,10 +1,11 @@
 featured:
-- {name: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
+  - {name: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
    author: 'W Su, L Zhu, L Wu',
    journal: 'SIAM Journal on Scientific Computing',
    volume: '42(6): B1517-B1540',
    year: '2020',
-   src: '/publications/1501.07274.pdf'}
+   src: '/publications/J20.pdf',
+   doi: 'https://doi.org/10.1137/20M132691X'}
 
 - {name: 'Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
    author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
@@ -34,6 +35,70 @@ journal:
    journal: 'Computer Methods in Applied Mechanics and Engineering',
    volume: '373: 113548',
    year: '2021',
-   src: '/publications/J24.pdf',
+   src: '/publications/J23.pdf',
    doi: 'https://doi.org/10.1016/j.cma.2020.113548'}
+
+  - {name: 'Uncertainty quantification in rarefied dynamics of molecular gas: rate effect of thermal relaxation.',
+   author: 'Q Li, J Zeng, W Su, L Wu',
+   journal: 'Journal of Fluid Mechanics',
+   volume: '917: A58',
+   year: '2021',
+   src: '/publications/J22.pdf',
+   doi: 'https://doi.org/10.1017/jfm.2021.338'}
+
+  - {name: 'General synthetic iterative scheme for nonlinear gas kinetic simulation of multi-scale rarefied gas flows.',
+   author: 'L Zhu, X Pi, W Su, Z Li, Y Zhang, L Wu',
+   journal: 'Journal of Computational Physics',
+   volume: '430: 110091',
+   year: '2021',
+   src: '/publications/J21.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2020.110091'}
+
+  - {name: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
+   author: 'W Su, L Zhu, L Wu',
+   journal: 'SIAM Journal on Scientific Computing',
+   volume: '42(6): B1517-B1540',
+   year: '2020',
+   src: '/publications/J20.pdf',
+   doi: 'https://doi.org/10.1137/20M132691X'}
+
+  - {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
+
+  - {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
+
+  - {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
+
+  - {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
+
+  - {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
 
