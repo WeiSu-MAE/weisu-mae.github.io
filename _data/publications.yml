@@ -112,21 +112,21 @@ journal:
    src: '/publications/J14.pdf',
    doi: 'https://doi.org/10.1080/10618562.2019.1666110'}
 
-  - {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+  - {name: 'Heat and mass transfer of oscillatory lid-driven flow in the continuum, transition and free molecular flow regimes.',
+   author: 'P Wang, W Su, L Zhu, Y Zhang',
+   journal: 'International Journal of Heat and Mass Transfer',
+   volume: '131: 291-300',
+   year: '2019',
+   src: '/publications/J13.pdf',
+   doi: 'https://doi.org/10.1016/j.ijheatmasstransfer.2018.11.060'}
 
-  - {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+  - {name: 'Accurate and efficient computation of the Boltzmann equation for Couette flow: influence of intermolecular potentials on Knudsen layer function and viscous slip coefficient.',
+   author: 'W Su, P Wang, H Liu, L Wu',
+   journal: 'Journal of Computational Physics',
+   volume: '378: 573-590',
+   year: '2019',
+   src: '/publications/J12.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2018.11.015'}
 
   - {name: '',
    author: '',
