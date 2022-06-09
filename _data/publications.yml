@@ -1,5 +1,5 @@
 featured:
-  - {name: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
+  - {title: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
    author: 'W Su, L Zhu, L Wu',
    journal: 'SIAM Journal on Scientific Computing',
    volume: '42(6): B1517-B1540',
