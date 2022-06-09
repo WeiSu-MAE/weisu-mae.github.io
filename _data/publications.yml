@@ -4,24 +4,26 @@ featured:
    journal: 'SIAM Journal on Scientific Computing',
    volume: '42(6): B1517-B1540',
    year: '2020',
-   url: '/publications/1501.07274.pdf'}
+   src: '/publications/1501.07274.pdf'}
 
 - {name: 'Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
    author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
    journal: 'Journal of Computational Physics',
    volume: '407: 109245',
    year: '2020',
-   url: '/publications/1501.07274.pdf'}
+   src: '/publications/1501.07274.pdf'}
 
 - {name: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
    author: 'W Su, P Wang, Y Zhang, L Wu',
    journal: 'Journal of Scientific Computing',
    volume: '82: 39',
    year: '2020',
-   url: '/publications/1501.07274.pdf'}
+   src: '/publications/1501.07274.pdf'}
 
-index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+journal:
+  - {name: 'Temperature jump and Knudsen layer in rarefied molecular gas.',
+   author: 'W Su, Q Li, Y Zhang, L Wu',
+   journal: 'Physics of Fluids',
+   volume: '34: 032010',
+   year: '2022',
+   src: '/publications/J24.pdf'}
