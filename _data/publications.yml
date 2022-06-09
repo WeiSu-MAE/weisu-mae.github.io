@@ -152,26 +152,66 @@ journal:
    src: '/publications/J9.pdf',
    doi: 'https://doi.org/10.2514/1.T5271'}
 
-  - {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+  - {name: 'Rarefaction throttling effect: Influence of the bend in micro-channel gaseous flow.',
+   author: 'W Liu, G Tang, W Su, L Wu, Y Zhang',
+   journal: 'Physics of Fluids',
+   volume: '30: 082002',
+   year: '2018',
+   src: '/publications/J8.pdf',
+   doi: 'https://doi.org/10.1063/1.5037430'}
 
-- {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+- {name: 'Nonlinear oscillatory rarefied gas flow inside a rectangular cavity.',
+   author: 'P Wang, L Zhu, W Su, L Wu, Y Zhang',
+   journal: 'Physical Review E',
+   volume: '97: 043103',
+   year: '2018',
+   src: '/publications/J7.pdf',
+   doi: 'https://doi.org/10.1103/PhysRevE.97.043103'}
 
-- {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+- {name: 'Rarefaction cloaking: Influence of the fractal rough surface in gas slider bearings.',
+   author: 'W Su, H Liu, Y Zhang, L Wu',
+   journal: 'Physics of Fluids',
+   volume: '29: 102003',
+   year: '2017',
+   src: '/publications/J6.pdf',
+   doi: 'https://doi.org/10.1063/1.4999696'}
+
+- {name: 'Comparative study of the discrete velocity and lattice Boltzmann methods for rarefied gas flows through irregular channels.',
+   author: 'W Su, S Lindsay, H Liu, L Wu',
+   journal: 'Physical Review E',
+   volume: '96: 023309',
+   year: '2017',
+   src: '/publications/J5.pdf',
+   doi: 'https://doi.org/10.1103/PhysRevE.96.023309'}
+
+- {name: 'Stable Runge-Kutta discontinuous Galerkin solver for hypersonic rarefied gaseous flows based on 2D Boltzmann kinetic equations.',
+   author: 'W Su, Z Tang, B He, G Cai',
+   journal: 'Applied Mathematics and Mechanics',
+   volume: '38: 343-362',
+   year: '2017',
+   src: '/publications/J4.pdf',
+   doi: 'https://doi.org/10.1007/s10483-017-2177-8'}
+
+- {name: 'A parallel Runge-Kutta discontinuous Galerkin solver for rarefied gas flows based on 2D Boltzmann kinetic equations.',
+   author: 'W Su, A Alexeenko, G Cai',
+   journal: 'Computers & Fluids',
+   volume: '109: 123-136',
+   year: '2015',
+   src: '/publications/J3.pdf',
+   doi: 'https://doi.org/10.1016/j.compfluid.2014.12.015'}
+
+- {name: 'Extension of the low diffusion particle method for near-continuum two-phase flow simulations.',
+   author: 'W Su, X He, G Cai',
+   journal: 'Chinese Journal of Aeronautics',
+   volume: '26: 37-46',
+   year: '2013',
+   src: '/publications/J2.pdf',
+   doi: 'https://doi.org/10.1016/j.cja.2012.12.010'}
+
+- {name: 'Theoretical development for DSMC local time stepping technique.',
+   author: 'G Cai, W Su, F Hou',
+   journal: 'Science China: Technological Sciences',
+   volume: '55: 2750-2756',
+   year: '2012',
+   src: '/publications/J1.pdf',
+   doi: 'https://doi.org/10.1016/10.1007/s11431-012-4913-7'}
