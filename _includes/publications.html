@@ -9,7 +9,7 @@
       </ul>
     {% else %}
       <h3 class="fw-bold">Publications</h3>
-      <ol reversed class="fw-bold">Peer-reviewed journals
+      <ol reversed><h4 class="fw-bold">Peer-reviewed journals</h4>
       {% for item in site.data.publications.journal %}
         <li><span>{{ item.author }} ({{ item.year }}). {{ item.name }} </span><span class="fst-italic">{{ item.journal }} </span><span>{{ item.volume }}. </span><a href="{{ item.src }}">[pdf]</a></li>
       {% endfor %}
