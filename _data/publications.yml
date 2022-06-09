@@ -1,5 +1,5 @@
 featured:
-  - {name: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
+  - {title: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
    author: 'W Su, L Zhu, L Wu',
    journal: 'SIAM Journal on Scientific Computing',
    volume: '42(6): B1517-B1540',
@@ -7,7 +7,7 @@ featured:
    src: '/publications/J20.pdf',
    doi: 'https://doi.org/10.1137/20M132691X'}
 
-  - {name: ' Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
+  - {title: ' Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
    author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
    journal: 'Journal of Computational Physics',
    volume: '407: 109245',
@@ -15,7 +15,7 @@ featured:
    src: '/publications/J15.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2020.109245'}
 
-  - {name: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
+  - {title: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
    author: 'W Su, P Wang, Y Zhang, L Wu',
    journal: 'Journal of Scientific Computing',
    volume: '82: 39',
@@ -24,7 +24,7 @@ featured:
    doi: 'https://doi.org/10.1007/s10915- 020-01139-7'}
 
 journal:
-  - {name: 'Temperature jump and Knudsen layer in rarefied molecular gas.',
+  - {title: 'Temperature jump and Knudsen layer in rarefied molecular gas.',
    author: 'W Su, Q Li, Y Zhang, L Wu',
    journal: 'Physics of Fluids',
    volume: '34: 032010',
@@ -32,7 +32,7 @@ journal:
    src: '/publications/J24.pdf',
    doi: 'https://doi.org/10.1063/5.0086076'}
 
-  - {name: 'Multiscale simulation of molecular gas flows by the general synthetic iterative scheme.',
+  - {title: 'Multiscale simulation of molecular gas flows by the general synthetic iterative scheme.',
    author: 'W Su, Y Zhang, L Wu',
    journal: 'Computer Methods in Applied Mechanics and Engineering',
    volume: '373: 113548',
@@ -40,7 +40,7 @@ journal:
    src: '/publications/J23.pdf',
    doi: 'https://doi.org/10.1016/j.cma.2020.113548'}
 
-  - {name: 'Uncertainty quantification in rarefied dynamics of molecular gas: rate effect of thermal relaxation.',
+  - {title: 'Uncertainty quantification in rarefied dynamics of molecular gas: rate effect of thermal relaxation.',
    author: 'Q Li, J Zeng, W Su, L Wu',
    journal: 'Journal of Fluid Mechanics',
    volume: '917: A58',
@@ -48,7 +48,7 @@ journal:
    src: '/publications/J22.pdf',
    doi: 'https://doi.org/10.1017/jfm.2021.338'}
 
-  - {name: 'General synthetic iterative scheme for nonlinear gas kinetic simulation of multi-scale rarefied gas flows.',
+  - {title: 'General synthetic iterative scheme for nonlinear gas kinetic simulation of multi-scale rarefied gas flows.',
    author: 'L Zhu, X Pi, W Su, Z Li, Y Zhang, L Wu',
    journal: 'Journal of Computational Physics',
    volume: '430: 110091',
@@ -56,7 +56,7 @@ journal:
    src: '/publications/J21.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2020.110091'}
 
-  - {name: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
+  - {title: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
    author: 'W Su, L Zhu, L Wu',
    journal: 'SIAM Journal on Scientific Computing',
    volume: '42(6): B1517-B1540',
@@ -64,7 +64,7 @@ journal:
    src: '/publications/J20.pdf',
    doi: 'https://doi.org/10.1137/20M132691X'}
 
-  - {name: 'Thermal transpiration in molecular gas',
+  - {title: 'Thermal transpiration in molecular gas',
    author: 'P Wang, W Su, L Wu',
    journal: 'Physics of Fluids',
    volume: '32: 082005',
@@ -72,7 +72,7 @@ journal:
    src: '/publications/J19.pdf',
    doi: 'https://doi.org/10.1063/5.0018505'}
 
-  - {name: 'GSIS: an efficient and accurate numerical method to obtain the apparent gas permeability of porous media.',
+  - {title: 'GSIS: an efficient and accurate numerical method to obtain the apparent gas permeability of porous media.',
    author: 'W Su, M T Ho, Y Zhang, L Wu',
    journal: 'Computers & Fluids',
    volume: '206: 104576',
@@ -80,7 +80,7 @@ journal:
    src: '/publications/J18.pdf',
    doi: 'https://doi.org/10.1016/j.compfluid.2020.104576'}
 
-  - {name: 'Rarefied flow separation in microchannel with bends.',
+  - {title: 'Rarefied flow separation in microchannel with bends.',
    author: 'M T Ho, J Li, W Su, L Wu, M Borg, Y Zhang',
    journal: 'Journal of Fluid Mechanics',
    volume: '901: A26',
@@ -88,7 +88,7 @@ journal:
    src: '/publications/J17.pdf',
    doi: 'https://doi.org/10.1017/jfm.2020.585'}
 
-  - {name: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
+  - {title: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
    author: 'W Su, P Wang, Y Zhang, L Wu',
    journal: 'Journal of Scientific Computing',
    volume: '82: 39',
@@ -96,7 +96,7 @@ journal:
    src: '/publications/J16.pdf',
    doi: 'https://doi.org/10.1007/s10915- 020-01139-7'}
 
-  - {name: ' Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
+  - {title: ' Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
    author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
    journal: 'Journal of Computational Physics',
    volume: '407: 109245',
@@ -104,7 +104,7 @@ journal:
    src: '/publications/J15.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2020.109245'}
 
-  - {name: 'High-order hybridizable discontinuous Galerkin method for the gas kinetic equation.',
+  - {title: 'High-order hybridizable discontinuous Galerkin method for the gas kinetic equation.',
    author: 'W Su, P Wang, Y Zhang',
    journal: 'International Journal of Computational Fluid Dynamics',
    volume: '33: 335-342',
@@ -112,7 +112,7 @@ journal:
    src: '/publications/J14.pdf',
    doi: 'https://doi.org/10.1080/10618562.2019.1666110'}
 
-  - {name: 'Heat and mass transfer of oscillatory lid-driven flow in the continuum, transition and free molecular flow regimes.',
+  - {title: 'Heat and mass transfer of oscillatory lid-driven flow in the continuum, transition and free molecular flow regimes.',
    author: 'P Wang, W Su, L Zhu, Y Zhang',
    journal: 'International Journal of Heat and Mass Transfer',
    volume: '131: 291-300',
@@ -120,7 +120,7 @@ journal:
    src: '/publications/J13.pdf',
    doi: 'https://doi.org/10.1016/j.ijheatmasstransfer.2018.11.060'}
 
-  - {name: 'Accurate and efficient computation of the Boltzmann equation for Couette flow: influence of intermolecular potentials on Knudsen layer function and viscous slip coefficient.',
+  - {title: 'Accurate and efficient computation of the Boltzmann equation for Couette flow: influence of intermolecular potentials on Knudsen layer function and viscous slip coefficient.',
    author: 'W Su, P Wang, H Liu, L Wu',
    journal: 'Journal of Computational Physics',
    volume: '378: 573-590',
@@ -128,7 +128,7 @@ journal:
    src: '/publications/J12.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2018.11.015'}
 
-  - {name: 'A high-order hybridizable discontinuous Galerkin method with fast convergence to steady-state solutions of the gas kinetic equation.',
+  - {title: 'A high-order hybridizable discontinuous Galerkin method with fast convergence to steady-state solutions of the gas kinetic equation.',
    author: 'W Su, P Wang, Y Zhang, L Wu',
    journal: 'Journal of Computa- tional Physics',
    volume: '376: 973-991',
@@ -136,7 +136,7 @@ journal:
    src: '/publications/J11.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2018.08.050'}
 
-  - {name: 'Oscillatory rarefied gas flow inside a three dimensional rectan- gular cavity.',
+  - {title: 'Oscillatory rarefied gas flow inside a three dimensional rectan- gular cavity.',
    author: 'P Wang, W Su, Y Zhang',
    journal: 'Physics of Fluids',
    volume: '30: 102002',
@@ -144,7 +144,7 @@ journal:
    src: '/publications/J10.pdf',
    doi: 'https://doi.org/10.1063/1.5052253'}
 
-  - {name: 'State-specific modeling of vibrational relaxation and nitric oxide formation in shock-heated air.',
+  - {title: 'State-specific modeling of vibrational relaxation and nitric oxide formation in shock-heated air.',
    author: 'W Su, D Bruno, Y Babou',
    journal: 'Journal of Thermophysics and Heat Transfer',
    volume: '32: 337-352',
@@ -152,7 +152,7 @@ journal:
    src: '/publications/J9.pdf',
    doi: 'https://doi.org/10.2514/1.T5271'}
 
-  - {name: 'Rarefaction throttling effect: Influence of the bend in micro-channel gaseous flow.',
+  - {title: 'Rarefaction throttling effect: Influence of the bend in micro-channel gaseous flow.',
    author: 'W Liu, G Tang, W Su, L Wu, Y Zhang',
    journal: 'Physics of Fluids',
    volume: '30: 082002',
@@ -160,7 +160,7 @@ journal:
    src: '/publications/J8.pdf',
    doi: 'https://doi.org/10.1063/1.5037430'}
 
-- {name: 'Nonlinear oscillatory rarefied gas flow inside a rectangular cavity.',
+- {title: 'Nonlinear oscillatory rarefied gas flow inside a rectangular cavity.',
    author: 'P Wang, L Zhu, W Su, L Wu, Y Zhang',
    journal: 'Physical Review E',
    volume: '97: 043103',
@@ -168,7 +168,7 @@ journal:
    src: '/publications/J7.pdf',
    doi: 'https://doi.org/10.1103/PhysRevE.97.043103'}
 
-- {name: 'Rarefaction cloaking: Influence of the fractal rough surface in gas slider bearings.',
+- {title: 'Rarefaction cloaking: Influence of the fractal rough surface in gas slider bearings.',
    author: 'W Su, H Liu, Y Zhang, L Wu',
    journal: 'Physics of Fluids',
    volume: '29: 102003',
@@ -176,7 +176,7 @@ journal:
    src: '/publications/J6.pdf',
    doi: 'https://doi.org/10.1063/1.4999696'}
 
-- {name: 'Comparative study of the discrete velocity and lattice Boltzmann methods for rarefied gas flows through irregular channels.',
+- {title: 'Comparative study of the discrete velocity and lattice Boltzmann methods for rarefied gas flows through irregular channels.',
    author: 'W Su, S Lindsay, H Liu, L Wu',
    journal: 'Physical Review E',
    volume: '96: 023309',
@@ -184,7 +184,7 @@ journal:
    src: '/publications/J5.pdf',
    doi: 'https://doi.org/10.1103/PhysRevE.96.023309'}
 
-- {name: 'Stable Runge-Kutta discontinuous Galerkin solver for hypersonic rarefied gaseous flows based on 2D Boltzmann kinetic equations.',
+- {title: 'Stable Runge-Kutta discontinuous Galerkin solver for hypersonic rarefied gaseous flows based on 2D Boltzmann kinetic equations.',
    author: 'W Su, Z Tang, B He, G Cai',
    journal: 'Applied Mathematics and Mechanics',
    volume: '38: 343-362',
@@ -192,7 +192,7 @@ journal:
    src: '/publications/J4.pdf',
    doi: 'https://doi.org/10.1007/s10483-017-2177-8'}
 
-- {name: 'A parallel Runge-Kutta discontinuous Galerkin solver for rarefied gas flows based on 2D Boltzmann kinetic equations.',
+- {title: 'A parallel Runge-Kutta discontinuous Galerkin solver for rarefied gas flows based on 2D Boltzmann kinetic equations.',
    author: 'W Su, A Alexeenko, G Cai',
    journal: 'Computers & Fluids',
    volume: '109: 123-136',
@@ -200,7 +200,7 @@ journal:
    src: '/publications/J3.pdf',
    doi: 'https://doi.org/10.1016/j.compfluid.2014.12.015'}
 
-- {name: 'Extension of the low diffusion particle method for near-continuum two-phase flow simulations.',
+- {title: 'Extension of the low diffusion particle method for near-continuum two-phase flow simulations.',
    author: 'W Su, X He, G Cai',
    journal: 'Chinese Journal of Aeronautics',
    volume: '26: 37-46',
@@ -208,7 +208,7 @@ journal:
    src: '/publications/J2.pdf',
    doi: 'https://doi.org/10.1016/j.cja.2012.12.010'}
 
-- {name: 'Theoretical development for DSMC local time stepping technique.',
+- {title: 'Theoretical development for DSMC local time stepping technique.',
    author: 'G Cai, W Su, F Hou',
    journal: 'Science China: Technological Sciences',
    volume: '55: 2750-2756',
@@ -217,7 +217,7 @@ journal:
    doi: 'https://doi.org/10.1016/10.1007/s11431-012-4913-7'}
 
 conference:
-- {name: '',
+- {title: '',
    author: '',
    conf: '',
    year: '',
