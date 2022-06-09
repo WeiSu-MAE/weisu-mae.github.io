@@ -144,13 +144,13 @@ journal:
    src: '/publications/J10.pdf',
    doi: 'https://doi.org/10.1063/1.5052253'}
 
-  - {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+  - {name: 'State-specific modeling of vibrational relaxation and nitric oxide formation in shock-heated air.',
+   author: 'W Su, D Bruno, Y Babou',
+   journal: 'Journal of Thermophysics and Heat Transfer',
+   volume: '32: 337-352',
+   year: '2018',
+   src: '/publications/J9.pdf',
+   doi: 'https://doi.org/10.2514/1.T5271'}
 
   - {name: '',
    author: '',
@@ -160,4 +160,18 @@ journal:
    src: '/publications/',
    doi: 'https://doi.org/'}
 
+- {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
 
+- {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
