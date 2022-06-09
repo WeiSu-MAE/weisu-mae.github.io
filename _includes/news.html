@@ -3,7 +3,7 @@
     {% if page.title == "Home" %}
       <h3 class="fw-bold">Recent News</h3>
       {% for post in site.posts limit: site.number_of_posts %}
-        <p><span class="fw-bold">{{ post.date | date: "%B %-d, %Y" }} </span><a href="{{ post.url }}">{{ post.title | escape }} >></a></p>
+        <p class="mb-3"><span class="fw-bold">{{ post.date | date: "%B %-d, %Y" }} </span><a href="{{ post.url }}">{{ post.title | escape }} >></a></p>
       {% endfor %}
     {% else %}
       <h3 class="fw-bold">News</h3>
