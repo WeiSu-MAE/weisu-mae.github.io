@@ -7,6 +7,22 @@ featured:
    src: '/publications/J20.pdf',
    doi: 'https://doi.org/10.1137/20M132691X'}
 
+  - {name: ' Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
+   author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Computational Physics',
+   volume: '407: 109245',
+   year: '2020',
+   src: '/publications/J15.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2020.109245'}
+
+  - {name: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
+   author: 'W Su, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Scientific Computing',
+   volume: '82: 39',
+   year: '2020',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1007/s10915- 020-01139-7'}
+
 journal:
   - {name: 'Temperature jump and Knudsen layer in rarefied molecular gas.',
    author: 'W Su, Q Li, Y Zhang, L Wu',
@@ -64,6 +80,46 @@ journal:
    src: '/publications/J18.pdf',
    doi: 'https://doi.org/10.1016/j.compfluid.2020.104576'}
 
+  - {name: 'Rarefied flow separation in microchannel with bends.',
+   author: 'M T Ho, J Li, W Su, L Wu, M Borg, Y Zhang',
+   journal: 'Journal of Fluid Mechanics',
+   volume: '901: A26',
+   year: '2020',
+   src: '/publications/J17.pdf',
+   doi: 'https://doi.org/10.1017/jfm.2020.585'}
+
+  - {name: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
+   author: 'W Su, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Scientific Computing',
+   volume: '82: 39',
+   year: '2020',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1007/s10915- 020-01139-7'}
+
+  - {name: ' Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
+   author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Computational Physics',
+   volume: '407: 109245',
+   year: '2020',
+   src: '/publications/J15.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2020.109245'}
+
+  - {name: 'High-order hybridizable discontinuous Galerkin method for the gas kinetic equation.',
+   author: 'W Su, P Wang, Y Zhang',
+   journal: 'International Journal of Computational Fluid Dynamics',
+   volume: '33: 335-342',
+   year: '2019',
+   src: '/publications/J14.pdf',
+   doi: 'https://doi.org/10.1080/10618562.2019.1666110'}
+
+  - {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
+
   - {name: '',
    author: '',
    journal: '',
@@ -87,4 +143,21 @@ journal:
    year: '',
    src: '/publications/',
    doi: 'https://doi.org/'}
+
+  - {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
+
+  - {name: '',
+   author: '',
+   journal: '',
+   volume: '',
+   year: '',
+   src: '/publications/',
+   doi: 'https://doi.org/'}
+
 
