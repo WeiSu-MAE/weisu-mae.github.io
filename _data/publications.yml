@@ -13,6 +13,13 @@ featured:
    year: '2020',
    url: '/publications/1501.07274.pdf'}
 
+- {name: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
+   author: 'W Su, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Scientific Computing',
+   volume: '82: 39',
+   year: '2020',
+   url: '/publications/1501.07274.pdf'}
+
 index:
 - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
 - {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
