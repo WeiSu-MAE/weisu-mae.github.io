@@ -128,21 +128,21 @@ journal:
    src: '/publications/J12.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2018.11.015'}
 
-  - {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+  - {name: 'A high-order hybridizable discontinuous Galerkin method with fast convergence to steady-state solutions of the gas kinetic equation.',
+   author: 'W Su, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Computa- tional Physics',
+   volume: '376: 973-991',
+   year: '2019',
+   src: '/publications/J11.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2018.08.050'}
 
-  - {name: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '/publications/',
-   doi: 'https://doi.org/'}
+  - {name: 'Oscillatory rarefied gas flow inside a three dimensional rectan- gular cavity.',
+   author: 'P Wang, W Su, Y Zhang',
+   journal: 'Physics of Fluids',
+   volume: '30: 102002',
+   year: '2018',
+   src: '/publications/J10.pdf',
+   doi: 'https://doi.org/10.1063/1.5052253'}
 
   - {name: '',
    author: '',
