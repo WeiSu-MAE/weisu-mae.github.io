@@ -28,3 +28,12 @@ journal:
    year: '2022',
    src: '/publications/J24.pdf',
    doi: 'https://doi.org/10.1063/5.0086076'}
+
+  - {name: 'Multiscale simulation of molecular gas flows by the general synthetic iterative scheme.',
+   author: 'W Su, Y Zhang, L Wu',
+   journal: 'Computer Methods in Applied Mechanics and Engineering',
+   volume: '373: 113548',
+   year: '2021',
+   src: '/publications/J24.pdf',
+   doi: 'https://doi.org/10.1016/j.cma.2020.113548'}
+
