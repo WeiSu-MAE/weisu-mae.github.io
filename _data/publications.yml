@@ -215,3 +215,12 @@ journal:
    year: '2012',
    src: '/publications/J1.pdf',
    doi: 'https://doi.org/10.1016/10.1007/s11431-012-4913-7'}
+
+conference:
+- {name: '',
+   author: '',
+   conf: '',
+   year: '',
+   volume: '',
+   src: '',
+   doi: ''}
