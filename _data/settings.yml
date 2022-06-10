@@ -3,6 +3,7 @@ menu:
 - {name: 'Team', url: '/people'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'News', url: '/news'}
+- {name: 'Vacancies', url: '/vacancies'}
 #- {name: 'courses', url: '/courses'}
 #- {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
