@@ -64,6 +64,46 @@ journal:
    src: '/publications/J20.pdf',
    doi: 'https://doi.org/10.1137/20M132691X'}
 
+- {title: 'Thermal transpiration in molecular gas',
+   author: 'P Wang, W Su, L Wu',
+   journal: 'Physics of Fluids',
+   volume: '32: 082005',
+   year: '2020',
+   src: '/publications/J19.pdf',
+   doi: 'https://doi.org/10.1063/5.0018505'}
+
+- {title: 'GSIS: an efficient and accurate numerical method to obtain the apparent gas permeability of porous media.',
+   author: 'W Su, M T Ho, Y Zhang, L Wu',
+   journal: 'Computers & Fluids',
+   volume: '206: 104576',
+   year: '2020',
+   src: '/publications/J18.pdf',
+   doi: 'https://doi.org/10.1016/j.compfluid.2020.104576'}
+
+- {title: 'Rarefied flow separation in microchannel with bends.',
+   author: 'M T Ho, J Li, W Su, L Wu, M Borg, Y Zhang',
+   journal: 'Journal of Fluid Mechanics',
+   volume: '901: A26',
+   year: '2020',
+   src: '/publications/J17.pdf',
+   doi: 'https://doi.org/10.1017/jfm.2020.585'}
+
+- {title: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
+   author: 'W Su, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Scientific Computing',
+   volume: '82: 39',
+   year: '2020',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1007/s10915-020-01139-7'}
+
+- {title: ' Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
+   author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Computational Physics',
+   volume: '407: 109245',
+   year: '2020',
+   src: '/publications/J15.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2020.109245'}
+
 conference:
 - {title: '',
    author: '',
