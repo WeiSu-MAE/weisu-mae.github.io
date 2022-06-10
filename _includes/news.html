@@ -5,6 +5,7 @@
       {% for post in site.posts limit: site.number_of_posts %}
         <p class="mb-1"><span class="fw-bold">{{ post.date | date: "%B %-d, %Y" }} </span><a href="{{ post.url }}">{{ post.title }} >></a></p>
       {% endfor %}
+      <a href="/news">more news</a>
     {% else %}
       <h3 class="fw-bold text-xl-center mb-3">News</h3>
       {% for post in site.posts %}
