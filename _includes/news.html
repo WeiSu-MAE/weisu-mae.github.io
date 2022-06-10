@@ -10,8 +10,8 @@
       <h3 class="fw-bold text-xl-center mb-3">News</h3>
       {% for post in site.posts %}
         <p class="mb-5">
-          <h5 class="fw-bold mb-0">{{ post.title }}</h5>{{ post.date | date: "%B %-d, %Y" }}
-          <span class="mt-1">{{ post.content }}</span>
+          <span class="fw-bold">{{ post.title }}</span>{{ post.date | date: "%B %-d, %Y" }}
+          <p class="mt-1">{{ post.content }}</p>
         </p>
       {% endfor %}
     {% endif %}
