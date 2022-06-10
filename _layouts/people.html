@@ -9,7 +9,7 @@ layout: default
 <h5 class="fw-bold">Primary Investigator</h5>
 {% for person in site.data.people.PI %}
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
+    <img class="circular--square" src="{{ person.image }}" />
     <h5>{{ person.name }}</h5>
     <p>Email: {{ person.email }}</p>
     <p>Phone: {{ person.phone }}</p>
