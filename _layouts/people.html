@@ -13,8 +13,11 @@ layout: default
     <h6 class="fw-bold mb-0 mt=1">{{ person.name }}</h6>
     <p class="mb-0">Email: {{ person.email }}</p>
     <p class="mb-0">Phone: {{ person.phone }}</p>
-    <p class="mb-0 fst-italic"><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
+    <p class="mb-0 fst-italic"><a href="/people/{{ person.url }}">More info</a></p>
   </div>
 {% endfor %}
+<div class="col-md-12">
+  <h5 class="fw-bold text-xl-center mb-1"><a href="/vacancies">Join Us</a></h5>
+</div>
 </div>
 
