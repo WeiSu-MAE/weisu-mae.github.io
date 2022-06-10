@@ -10,6 +10,7 @@
       <h3 class="fw-bold text-xl-center mb-3">News</h3>
       {% for post in site.posts %}
         <p class="mb-3"><span class="fw-bold">{{ post.date | date: "%B %-d, %Y" }} </span><a href="{{ post.url }}">{{ post.title }} >></a></p>
+        <span>{{ post.content }}</span>
       {% endfor %}
     {% endif %}
   </div>
