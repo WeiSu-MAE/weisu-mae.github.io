@@ -11,9 +11,9 @@ layout: default
   <div class="col-md-4">
     <div class="circular_image"><img src="{{ person.image }}" /></div>
     <h6 class="fw-bold mb-1 mt=1 text-xl-center">{{ person.name }}</h6>
-    <p class="mb-0">Email: {{ person.email }}</p>
-    <p class="mb-0">Phone: {{ person.phone }}</p>
-    <p class="mb-0 fst-italic"><a href="/people/{{ person.url }}">More info</a></p>
+    <p class="mb-0 text-xl-center">Email: {{ person.email }}</p>
+    <p class="mb-0 text-xl-center">Phone: {{ person.phone }}</p>
+    <p class="mb-0 fst-italic text-xl-center"><a href="/people/{{ person.url }}">More info</a></p>
   </div>
 {% endfor %}
 <div class="col-md-12">
