@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wei will join HKUST"
+title: Wei will join HKUST
 date: 2022-06-15
 ---
 
