@@ -11,7 +11,7 @@
       {% for post in site.posts %}
         <p class="mb-5">
           <h5 class="fw-bold mb-0">{{ post.title }}</h5>{{ post.date | date: "%B %-d, %Y" }}
-          <span>{{ post.content }}</span>
+          <span class="mt-1">{{ post.content }}</span>
         </p>
       {% endfor %}
     {% endif %}
