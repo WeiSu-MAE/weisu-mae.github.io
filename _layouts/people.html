@@ -10,10 +10,10 @@ layout: default
 {% for person in site.data.people.PI %}
   <div class="col-md-6">
     <img class="circular--square" src="{{ person.image }}" />
-    <h5>{{ person.name }}</h5>
-    <p>Email: {{ person.email }}</p>
-    <p>Phone: {{ person.phone }}</p>
-    <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
+    <h5 class="mb-0 mt=1">{{ person.name }}</h5>
+    <p class="mb-0">Email: {{ person.email }}</p>
+    <p class="mb-0">Phone: {{ person.phone }}</p>
+    <p class="mb-0 fst-italic"><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
   </div>
 {% endfor %}
 </div>
