@@ -9,9 +9,9 @@
     {% else %}
       <h3 class="fw-bold text-xl-center mb-3">News</h3>
       {% for post in site.posts %}
-        <h5 class="fw-bold">{{ post.title }}</h5>
-        <p class="mb-3"><span class="fw-bold">{{ post.date | date: "%B %-d, %Y" }} </span></p>
-        <span>{{ post.content }}</span>
+        <h5 class="fw-bold mb-0">{{ post.title }}</h5>
+        <p class="mb-1">{{ post.date | date: "%B %-d, %Y" }}</p>
+        <p class="mb=3">{{ post.content }}</p>
       {% endfor %}
     {% endif %}
   </div>
