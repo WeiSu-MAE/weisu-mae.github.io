@@ -24,13 +24,45 @@ featured:
    doi: 'https://doi.org/10.1007/s10915-020-01139-7'}
 
 journal:
-  - {title: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '',
-   doi: ''}
+- {title: 'Temperature jump and Knudsen layer in rarefied molecular gas.',
+   author: 'W Su, Q Li, Y Zhang, L Wu',
+   journal: 'Physics of Fluids',
+   volume: '34: 032010',
+   year: '2022',
+   src: '/publications/J24.pdf',
+   doi: 'https://doi.org/10.1063/5.0086076'}
+
+- {title: 'Multiscale simulation of molecular gas flows by the general synthetic iterative scheme.',
+   author: 'W Su, Y Zhang, L Wu',
+   journal: 'Computer Methods in Applied Mechanics and Engineering',
+   volume: '373: 113548',
+   year: '2021',
+   src: '/publications/J23.pdf',
+   doi: 'https://doi.org/10.1016/j.cma.2020.113548'}
+
+- {title: 'Uncertainty quantification in rarefied dynamics of molecular gas: rate effect of thermal relaxation.',
+   author: 'Q Li, J Zeng, W Su, L Wu',
+   journal: 'Journal of Fluid Mechanics',
+   volume: '917: A58',
+   year: '2021',
+   src: '/publications/J22.pdf',
+   doi: 'https://doi.org/10.1017/jfm.2021.338'}
+
+- {title: 'General synthetic iterative scheme for nonlinear gas kinetic simulation of multi-scale rarefied gas flows.',
+   author: 'L Zhu, X Pi, W Su, Z Li, Y Zhang, L Wu',
+   journal: 'Journal of Computational Physics',
+   volume: '430: 110091',
+   year: '2021',
+   src: '/publications/J21.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2020.110091'}
+
+- {title: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
+   author: 'W Su, L Zhu, L Wu',
+   journal: 'SIAM Journal on Scientific Computing',
+   volume: '42(6): B1517-B1540',
+   year: '2020',
+   src: '/publications/J20.pdf',
+   doi: 'https://doi.org/10.1137/20M132691X'}
 
 conference:
 - {title: '',
