@@ -5,17 +5,16 @@ layout: default
 {{ content }}
 
 <div class="row g-5 mb-5">
-<h3 class="fw-bold text-xl-center mb-3">People</h3>
+<h3 class="fw-bold text-xl-center mb-1">Research Team</h3>
 <h5 class="fw-bold">Primary Investigator</h5>
 {% for person in site.data.people.PI %}
   <div class="col-md-6">
+    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
     <h5>{{ person.name }}</h5>
     <p>Email: {{ person.email }}</p>
     <p>Phone: {{ person.phone }}</p>
     <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
   </div>
-  <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
-  </div>
-</div>
 {% endfor %}
+</div>
+
