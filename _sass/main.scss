@@ -17,13 +17,14 @@ body a {
 .circular_image {
   width: 200px;
   height: 200px;
-  border-radius: 50%;
+  border-radius: 40%;
   overflow: hidden;
   background-color: $backgroundColor;
   /* commented for demo */
   float: left;
   margin-left: 80px;
   margin-top: 20px;
+  margin-bottom: 20px;
 
   /*for demo
   display:inline-block;
