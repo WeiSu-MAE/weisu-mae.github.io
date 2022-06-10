@@ -1,11 +1,27 @@
 featured:
-  - {title: '',
-   author: '',
-   journal: '',
-   volume: '',
-   year: '',
-   src: '',
-   doi: ''}
+- {title: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
+   author: 'W Su, L Zhu, L Wu',
+   journal: 'SIAM Journal on Scientific Computing',
+   volume: '42(6): B1517-B1540',
+   year: '2020',
+   src: '/publications/J20.pdf',
+   doi: 'https://doi.org/10.1137/20M132691X'}
+
+- {title: ' Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
+   author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Computational Physics',
+   volume: '407: 109245',
+   year: '2020',
+   src: '/publications/J15.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2020.109245'}
+
+- {title: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
+   author: 'W Su, P Wang, Y Zhang, L Wu',
+   journal: 'Journal of Scientific Computing',
+   volume: '82: 39',
+   year: '2020',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1007/s10915- 020-01139-7'}
 
 journal:
   - {title: '',
