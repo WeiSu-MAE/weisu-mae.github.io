@@ -9,7 +9,7 @@ layout: default
 <h5 class="fw-bold">Primary Investigator</h5>
 {% for person in site.data.people.PI %}
   <div class="col-md-6">
-    <img class="circular--square" src="{{ person.image }}" />
+    <div class="circular_image"><img src="{{ person.image }}" /></div>
     <h5 class="mb-0 mt=1">{{ person.name }}</h5>
     <p class="mb-0">Email: {{ person.email }}</p>
     <p class="mb-0">Phone: {{ person.phone }}</p>
