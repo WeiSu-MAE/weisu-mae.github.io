@@ -5,9 +5,10 @@ layout: default
 {{ content }}
 
 <div class="row g-5 mb-3">
-<h3 class="fw-bold text-xl-center mb-1">Research Team</h3>
-<h5 class="fw-bold mb-0">Principal Investigator</h5>
-{% for person in site.data.people.PI %}
+<div class="col-md-12">
+  <h3 class="fw-bold text-xl-center mb-1">Research Team</h3>
+  <h5 class="fw-bold mb-0">Principal Investigator</h5>
+  {% for person in site.data.people.PI %}
   <div class="col-md-4">
     <div class="circular_image"><img src="{{ person.image }}" /></div>
     <p class="mb-0"><span class="fw-bold">{{ person.name }}</span><span> | {{ person.title }}</span></p>
@@ -17,7 +18,6 @@ layout: default
     <p class="mb-0">More info: <a class="two" href="{{ person.cv }}">Full CV </a><a class="two" href="{{ person.googlescholar }}"><i class="fab fa-google"></i> </a><a class="two" href="{{ person.researchgate }}"><i class="fab fa-researchgate"></i> </a><a class="two" href="{{ person.linkdin }}"><i class="fab fa-linkedin"></i></a></p>
   </div>
 {% endfor %}
-<div class="col-md-12">
   <h5 class="fw-bold text-xl-center mb-1"><a class="two" href="/vacancies">Join Us</a></h5>
 </div>
 </div>
