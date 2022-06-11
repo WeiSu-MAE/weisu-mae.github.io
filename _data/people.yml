@@ -5,7 +5,11 @@ PI:
    email: '',
    office: '',
    image: 'assets/img/wei-su.JPG',
-   url: 'primary-investigator'}
+   cv: '/people/cv-wei-su.pdf',
+   googlescholar: 'https://scholar.google.com/citations?user=5ELg4LMAAAAJ&hl=en',
+   researchgate: 'https://www.researchgate.net/profile/Wei_Su22',
+   linkdin: 'https://www.linkedin.com/in/wei-su-24373899'
+   }
 
 #Postdoc:
 
