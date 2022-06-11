@@ -1,5 +1,6 @@
 menu:
 - {name: 'Home', url: '/'}
+- {name: 'Research', url: '/research'}
 - {name: 'Team', url: '/team'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'News', url: '/news'}
