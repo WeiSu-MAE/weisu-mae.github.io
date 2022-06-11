@@ -1,7 +1,7 @@
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     {% if page.title == "Home" %}
-      <h3 class="fw-bold text-xl-center mb-2">Recent News</h3>
+      <h3 class="fw-bold text-xl-center mb-3">Recent News</h3>
       {% for post in site.posts limit: site.number_of_posts %}
         <p class="mb-1"><span class="fw-bold">{{ post.date | date: "%B %-d, %Y" }} </span><a class="two" href="{{ post.url }}">{{ post.title }} >></a></p>
       {% endfor %}
