@@ -2,6 +2,7 @@ $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 $linkColor: #212529 !important;
+$linkColorbody: #46877F;
 
 body {
   background: $backgroundColor;
@@ -12,6 +13,10 @@ body {
 body a {
   color: $linkColor;
   text-decoration : none;
+}
+
+a.one {
+  color: $linkColorbody;
 }
 
 .circular_image {
