@@ -1,9 +1,9 @@
 PI:
 - {name: 'Wei Su',
    title: 'Assistant Professor',
-   phone: '(000) 000-0000',
-   email: 'hello@university.edu',
-   office: 'Science Building 505',
+   phone: '',
+   email: '',
+   office: '',
    image: 'assets/img/wei-su.JPG',
    url: 'primary-investigator'}
 
