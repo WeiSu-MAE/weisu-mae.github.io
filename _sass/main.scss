@@ -12,24 +12,40 @@ body {
   font-family: $bodyFont;
 }
 
-a.one {
+a.one:link {
   color: $linkColor;
   text-decoration : none;
 }
+a.one:hover {
+  color: $linkColor;
+  text-decoration : underline;
+}
 
-a.two {
+a.two:link {
   color: $linkColorbody;
   text-decoration : none;
 }
+a.two:hover {
+  color: $linkColorbody;
+  text-decoration : underline;
+}
 
-a.three {
+a.three:link {
   color: $linkColorHeader;
   text-decoration : none;
 }
+a.three:hover {
+  color: $linkColorHeader;
+  text-decoration : underline;
+}
 
-a.four {
+a.four:link {
   color: $linkColorHeadersub;
   text-decoration : none;
+}
+a.four:hover {
+  color: $linkColorHeadersub;
+  text-decoration : underline;
 }
 
 .circular_image {
