@@ -11,17 +11,17 @@
       <h3 class="fw-bold text-xl-center mb-3">Publications</h3>
       <ol><h5 class="fw-bold">Preprints</h5>
       {% for item in site.data.publications.preprint %}
-        <li><span>{{ item.author }} ({{ item.year }}). </span><span class="fw-bold">{{ item.title }} </span><a class="two" href="{{ item.src }}">[pdf]</a></li>
+        <li><span>{{ item.author }} ({{ item.year }}). {{ item.title }} </span><a class="two" href="{{ item.src }}">[pdf]</a></li>
       {% endfor %}
       </ol>
       <ol><h5 class="fw-bold">Peer-reviewed journals</h5>
       {% for item in site.data.publications.journal %}
-        <li><span>{{ item.author }} ({{ item.year }}). </span><span class="fw-bold">{{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.journal }} </span><span>{{ item.volume }}. </span><a class="two" href="{{ item.src }}">[pdf]</a><a class="two" href="{{ item.doi }}">[doi]</a></li>
+        <li><span>{{ item.author }} ({{ item.year }}). {{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.journal }} </span><span>{{ item.volume }}. </span><a class="two" href="{{ item.src }}">[pdf]</a><a class="two" href="{{ item.doi }}">[doi]</a></li>
       {% endfor %}
       </ol>
       <ol reversed><h5 class="fw-bold">Peer-reviewed conference proceedings</h5>
       {% for item in site.data.publications.conference %}
-        <li><span>{{ item.author }} ({{ item.year }}). </span><span class="fw-bold">{{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.conf }}. </span><span>{{ item.volume }}. </span><a class="two" href="{{ item.src }}">[pdf]</a><a class="two" href="{{ item.doi }}">[doi]</a></li>
+        <li><span>{{ item.author }} ({{ item.year }}). {{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.conf }}. </span><span>{{ item.volume }}. </span><a class="two" href="{{ item.src }}">[pdf]</a><a class="two" href="{{ item.doi }}">[doi]</a></li>
       {% endfor %}
       </ol>
     {% endif %}
