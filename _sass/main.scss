@@ -40,6 +40,26 @@ a.two {
   width:100%;
 }
 
+.rect_image {
+  width: 200px;
+  height: 200px;
+  border-radius: 0%;
+  overflow: hidden;
+  background-color: $backgroundColor;
+  /* commented for demo */
+  vertical-align: left;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  /*for demo
+  display:inline-block;
+  vertical-align:middle;*/
+}
+.rect_image img{
+  width:100%;
+}
+
 .justify {
   text-align: justify;
   text-justify: inter-character;
