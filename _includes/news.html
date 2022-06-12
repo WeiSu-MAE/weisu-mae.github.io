@@ -3,7 +3,7 @@
     {% if page.title == "Home" %}
       <h3 class="fw-bold text-xl-center mb-3">Recent News</h3>
       {% for post in site.posts limit: site.number_of_posts %}
-        <p class="mb-1"><span>{{ post.date | date: "%B %-d, %Y" }}  </span><a class="four" href="{{ post.url }}">{{ post.title }} >></a></p>
+        <p class="mb-1"><span>{{ post.date | date: "%B %-d, %Y" }}  </span><a class="four fw-bold" href="{{ post.url }}">{{ post.title }} >></a></p>
       {% endfor %}
       <p class="mt-2 fst-italic"><a class="four" href="/news">read more news</a></p>
     {% else %}
