@@ -67,6 +67,7 @@ a.two {
 
 .grid-container{
   display: grid;
-  grid-template-columes: 6 6;
+  grid-template-columns: auto auto;
+  column-gap: 20px;
 }
 
