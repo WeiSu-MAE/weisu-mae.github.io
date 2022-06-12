@@ -65,3 +65,8 @@ a.two {
   text-justify: inter-character;
 }
 
+.grid-container{
+  display: grid;
+  grid-template-columes: auto auto;
+}
+
