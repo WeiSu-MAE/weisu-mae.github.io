@@ -4,7 +4,7 @@
       <h3 class="fw-bold text-xl-center mb-3">Featured Publications</h3>
       <ul>
         {% for item in site.data.publications.featured %}
-        <li><span>{{ item.author }} ({{ item.year }}). </span><span class="fw-bold">{{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.journal }} </span><span>{{ item.volume }}. </span><a class="four" href="{{ item.src }}">[pdf]</a><a class="two" href="{{ item.doi }}">[doi]</a></li>
+        <li><span>{{ item.author }} ({{ item.year }}). </span><span class="fw-bold">{{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.journal }} </span><span>{{ item.volume }}. </span><a class="four" href="{{ item.src }}">[pdf]</a><a class="four" href="{{ item.doi }}">[doi]</a></li>
         {% endfor %}
       </ul>
     {% else %}
