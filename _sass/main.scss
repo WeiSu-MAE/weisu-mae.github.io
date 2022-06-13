@@ -88,6 +88,24 @@ a.four:hover, a.four:active {
   width:100%;
 }
 
+.rect_image_long {
+  width: 280px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0%;
+  background-color: $backgroundColor;
+  /* commented for demo */
+  float: right;
+  margin: 5px;
+
+  /*for demo
+  display:inline-block;
+  vertical-align:middle;*/
+}
+.rect_image_long img{
+  width:100%;
+}
+
 .justify {
   text-align: justify;
   text-justify: inter-character;
