@@ -71,16 +71,14 @@ a.four:hover, a.four:active {
 }
 
 .rect_image {
-  width: 10em;
-  height: 8em;
+  width: 20em;
+  height: 15em;
   object-fit: contain;
   border-radius: 0%;
   background-color: $backgroundColor;
   /* commented for demo */
   float: right;
-  margin-left: 10px;
-  margin-top: 1px;
-  margin-bottom: 1px;
+  margin: 1em;
 
   /*for demo
   display:inline-block;
