@@ -7,13 +7,8 @@
     </a>
   </div>
   <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
-    {% for item in site.data.settings.menu limit: site.number_of_menu_items %}
-      <a class="one me-3 py-2 text-decoration-none" href="/{{ item.url }}">{{ item.name }}</a>
-    {% endfor %}
-  </nav>
-  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
-    {% for item in site.data.settings.menu limit: site.number_of_menu_items %}
-      <a class="one me-3 py-2 text-decoration-none" href="/{{ item.url }}">{{ item.name }}</a>
+    {% for item in site.data.settings.menu%}
+      <a class="one me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
   </nav>
 </header>
