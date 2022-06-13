@@ -97,12 +97,11 @@ a.four:hover, a.four:active {
 
 .grid-container{
   display: grid;
-  grid-template-columns: repeat( autofit, minmax(250px, 1fr) );
+  grid-template-columns: repeat( 2, minmax(250px, 1fr) );
 }
 .grid-item{
   text-align: left;
   padding: 10px;
-  border: 1px;
   justify-self: center;
 }
 
