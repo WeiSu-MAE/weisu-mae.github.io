@@ -112,8 +112,8 @@ li {margin-bottom: 10px}
 
 .scroll {
   white-space: nowrap; /* [1] */
-  overflow-y: auto; /* [2] */
-  -webkit-overflow-scrolling: touch; [3] */
+  overflow-x: auto; /* [2] */
+  -webkit-overflow-scrolling: touch; /* [3] */
   /* -ms-overflow-style: -ms-autohiding-scrollbar; [4] */ }
 
 /* [5] 
