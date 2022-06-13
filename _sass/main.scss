@@ -71,8 +71,9 @@ a.four:hover, a.four:active {
 }
 
 .rect_image {
-  width: 220px;
-  height: 220px;
+  display: block;
+  max-width: 220px;
+  max-height: 220px;
   border-radius: 0%;
   overflow: hidden;
   background-color: $backgroundColor;
@@ -87,8 +88,9 @@ a.four:hover, a.four:active {
   vertical-align:middle;*/
 }
 .rect_image img{
-  width:100%;
-}
+  width: auto;
+  height: auto;
+} 
 
 .justify {
   text-align: justify;
