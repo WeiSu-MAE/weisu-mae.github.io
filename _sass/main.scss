@@ -99,13 +99,8 @@ a.four:hover, a.four:active {
   display: grid;
   grid-template-columns: repeat( 2, minmax(250px, 1fr) );
 }
-.grid-item-a{
-  text-align: justify;
-  padding: 1px;
-  justify-self: start;
-}
-.grid-item-b{
-  text-align: justify;
+.grid-item{
+  text-align: left;
   padding: 1px;
   justify-self: end;
 }
