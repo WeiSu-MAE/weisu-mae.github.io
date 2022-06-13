@@ -72,7 +72,7 @@ a.four:hover, a.four:active {
 
 .rect_image {
   width: 250px;
-  height: 200px;
+  height: auto;
   object-fit: contain;
   border-radius: 0%;
   background-color: $backgroundColor;
