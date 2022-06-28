@@ -24,12 +24,20 @@ featured:
    doi: 'https://doi.org/10.1007/s10915-020-01139-7'}
 
 preprint:
-- {title: 'A fast-converging scheme for the phonon Boltzmann equation with dual relaxation times.',
-   author: 'J Liu, C Zhang, H Yuan, W Su, L Wu',
-   year: '2022',
-   src: '/publications/P1.pdf'}
+- {title: '',
+   author: '',
+   year: '',
+   src: ''}
 
 journal:
+- {title: 'A fast-converging scheme for the phonon Boltzmann equation with dual relaxation times.',
+   author: 'J Liu, C Zhang, H Yuan, W Su, L Wu',
+   journal: 'Journal of Computational Physics',
+   volume: '',
+   year: '2022',
+   src: '/publications/J25.pdf',
+   doi: ''}
+
 - {title: 'Temperature jump and Knudsen layer in rarefied molecular gas.',
    author: 'W Su, Q Li, Y Zhang, L Wu',
    journal: 'Physics of Fluids',
