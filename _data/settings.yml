@@ -20,11 +20,12 @@ social:
 
 contacts:
 - {name: 'Dr Wei Su',
-   title: 'Assitant Professor',
+   title: 'Assistant Professor',
    department: 'Division of Emerging Interdisciplinary Areas',
-   institution: 'The Hong Kong University of Science and Thechnology',
+   institution: 'The Hong Kong University of Science and Technology',
    institution_address: '',
-   phone: '(000) 000-0000', email: '',
+   phone: '(000) 000-0000',
+   email: 'subuaa@gmail.com (will be updated when the University email is set up)',
    office: '',
    image: 'assets/img/contact.jpg'
  }
