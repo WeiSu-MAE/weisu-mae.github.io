@@ -11,7 +11,9 @@ layout: default
   {% for person in site.data.people.PI %}
   <div class="col-md-4">
     <div class="circular_image"><img src="{{ person.image }}" /></div>
-    <p class="mb-0"><span class="fw-bold">{{ person.name }}</span><span> | {{ person.title }}</span></p>
+    <p class="mb-0 fw-bold">{{ person.name }}</p>
+    <p class="mb-0">{{ person.title }}</p>
+    <p class="mb-0">{{ person.degree }}</p>
     <p class="mb-0">Email: {{ person.email }}</p>
     <p class="mb-0">Phone: {{ person.phone }}</p>
     <p class="mb-0">Room : {{ person.office }}</p>

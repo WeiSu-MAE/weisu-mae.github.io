@@ -1,6 +1,7 @@
 PI:
 - {name: 'Wei Su',
    title: 'Assistant Professor',
+   degree: 'PhD in Aerospace Engineering',
    phone: '',
    email: '',
    office: '',
