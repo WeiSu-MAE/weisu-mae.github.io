@@ -16,9 +16,15 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/WeiSu-MAE'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/wei-su-24373899/'}
 
 contacts:
-- {name: 'Dr Wei Su', title: 'Assitant Professor', department: 'Division of Emerging Interdisciplinary Areas', institution: 'The Hong Kong University of Science and Thechnology', institution_address: '', phone: '(000) 000-0000', email: '', office: '', image: 'assets/img/contact.jpg'}
+- {name: 'Dr Wei Su',
+   title: 'Assitant Professor',
+   department: 'Division of Emerging Interdisciplinary Areas',
+   institution: 'The Hong Kong University of Science and Thechnology',
+   institution_address: '',
+   phone: '(000) 000-0000', email: '',
+   office: '',
+   image: 'assets/img/contact.jpg'
+ }
