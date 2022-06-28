@@ -23,7 +23,7 @@ contacts:
    title: 'Assistant Professor',
    department: 'Division of Emerging Interdisciplinary Areas',
    institution: 'The Hong Kong University of Science and Technology',
-   institution_address: 'Clear Water Bay, Kowloon, Hong Kong',
+   address: 'Clear Water Bay, Kowloon, Hong Kong',
    phone: '',
    email: 'suweibuaa@gmail.com (will be updated when the university email is set up)',
    office: '',
