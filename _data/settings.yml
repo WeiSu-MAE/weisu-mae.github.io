@@ -1,13 +1,13 @@
 menu:
 - {name: 'Home', url: '/'}
-- {name: 'Research', url: '/research'}
+#- {name: 'Research', url: '/research'}
 - {name: 'Team', url: '/team'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'News', url: '/news'}
 - {name: 'Vacancies', url: '/vacancies'}
 #- {name: 'courses', url: '/courses'}
 #- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+#- {name: 'contact', url: '/contact'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
