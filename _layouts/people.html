@@ -12,8 +12,8 @@ layout: default
   <div class="grid-container border-bottom mt-3">
     <div class="grid-item"><img class="circular_image" src="{{ person.image }}" /></div>
     <div class="grid-item">
-      <p class="mb-0"><span class=" fw-bold">{{ person.title }} {{ person.name }}</span><span> {{ person.position }}</span></p>
-      <p class="mb-0"></p>
+      <p class="mb-0 fw-bold">{{ person.title }} {{ person.name }}</p>
+      <p class="mb-0">{{ person.position }}, {{ person.department }}</p>
       <p class="mb-0">{{ person.degree }}</p>
       <p class="mb-0">Email: {{ person.email }}</p>
       <p class="mb-0">Phone: {{ person.phone }}</p>
