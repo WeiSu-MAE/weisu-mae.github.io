@@ -95,6 +95,7 @@ a.four:hover, a.four:active {
 
 .grid-container{
   display: grid;
+  grid-gap: 5px 15px;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
 .grid-item{
