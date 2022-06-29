@@ -1,14 +1,14 @@
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     {% if page.title == "Home" %}
-      <h3 class="fw-bold text-xl-center mb-3">Featured Publications</h3>
+      <h3 class="fw-bold mb-3">Featured Publications</h3>
       <ul>
         {% for item in site.data.publications.featured %}
         <li><span>{{ item.author }} ({{ item.year }}). </span><span class="fw-bold">{{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.journal }} </span><span>{{ item.volume }}. </span><a class="four" href="{{ item.src }}">[pdf]</a><a class="four" href="{{ item.doi }}">[doi]</a></li>
         {% endfor %}
       </ul>
     {% else %}
-      <h3 class="fw-bold text-xl-center mb-3">Publications</h3>
+      <h3 class="fw-bold mb-3">Publications</h3>
       <!--<ol reversed><h5 class="fw-bold">Preprints</h5>
       {% for item in site.data.publications.preprint %}
         <li><span>{{ item.author }} ({{ item.year }}). {{ item.title }} </span><a class="four" href="{{ item.src }}">[pdf]</a></li>
