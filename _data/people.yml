@@ -8,7 +8,7 @@ PI:
    office: '',
    building: '',
    department: 'Division of Emerging Interdisciplinary Areas',
-   institution: 'The Hong Kong University of Science and Technology',
+   institution: 'HKUST',
    address: 'Clear Water Bay, Kowloon, Hong Kong',
    image: 'assets/img/wei-su.JPG',
    cv: '/people/cv-wei-su.pdf',
