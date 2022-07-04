@@ -36,7 +36,7 @@ journal:
    volume: '',
    year: '2022',
    src: '/publications/J25.pdf',
-   doi: ''}
+   doi: 'https://doi.org/10.1016/j.jcp.2022.111436'}
 
 - {title: 'Temperature jump and Knudsen layer in rarefied molecular gas.',
    author: 'W Su, Q Li, Y Zhang, L Wu',
