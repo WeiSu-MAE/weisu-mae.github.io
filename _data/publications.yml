@@ -255,7 +255,7 @@ conference:
    src: '/publications/C2.pdf',
    doi: 'https://doi.org/10.1063/1.4902700'}
 
-- {title: 'A Runge-Kutta discontinuous Galerkin solver for 2D Boltz- mann model equations: verification and analysis of computational performance.',
+- {title: 'A Runge-Kutta discontinuous Galerkin solver for 2D Boltzmann model equations: verification and analysis of computational performance.',
    author: 'W Su, A Alexeenko, G Cai',
    conf: '28th International Symposium on Rarefied Gas Dynamics',
    year: '2012',
