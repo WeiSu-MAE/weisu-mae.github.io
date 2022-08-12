@@ -14,12 +14,12 @@
         <li><span>{{ item.author }} ({{ item.year }}). {{ item.title }} </span><a class="four" href="{{ item.src }}">[pdf]</a></li>
       {% endfor %}
       </ol>-->
-      <ol reversed><h6 style="color:#313695">Peer-reviewed journals</h6>
+      <ol reversed><h5 style="color:#313695">Peer-reviewed journals</h5>
       {% for item in site.data.publications.journal %}
         <li><span>{{ item.author }} ({{ item.year }}).</span><span class="fw-bold"> {{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.journal }} </span><span>{{ item.volume }}. </span><a class="four" href="{{ item.src }}">[pdf]</a><a class="four" href="{{ item.doi }}">[doi]</a></li>
       {% endfor %}
       </ol>
-      <ol reversed><h5 class="fw-bold">Peer-reviewed conference proceedings</h5>
+      <ol reversed><h5 style="color:#313695">Peer-reviewed conference proceedings</h5>
       {% for item in site.data.publications.conference %}
         <li><span>{{ item.author }} ({{ item.year }}).</span><span class="fw-bold"> {{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.conf }}. </span><span>{{ item.volume }}. </span><a class="four" href="{{ item.src }}">[pdf]</a><a class="four" href="{{ item.doi }}">[doi]</a></li>
       {% endfor %}
