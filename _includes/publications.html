@@ -16,7 +16,7 @@
       </ol>-->
       <ol reversed><h5 class="fw-bold">Peer-reviewed journals</h5>
       {% for item in site.data.publications.journal %}
-        <li><span>{{ item.author }} ({{ item.year }}).</span><span style="color:$purple"> {{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.journal }} </span><span>{{ item.volume }}. </span><a class="four" href="{{ item.src }}">[pdf]</a><a class="four" href="{{ item.doi }}">[doi]</a></li>
+        <li><span>{{ item.author }} ({{ item.year }}).</span><span style="color:#7b4173"> {{ item.title }} </span><span class="fst-italic text-decoration-underline">{{ item.journal }} </span><span>{{ item.volume }}. </span><a class="four" href="{{ item.src }}">[pdf]</a><a class="four" href="{{ item.doi }}">[doi]</a></li>
       {% endfor %}
       </ol>
       <ol reversed><h5 class="fw-bold">Peer-reviewed conference proceedings</h5>
