@@ -33,7 +33,7 @@ journal:
 - {title: 'A fast-converging scheme for the phonon Boltzmann equation with dual relaxation times.',
    author: 'J Liu, C Zhang, H Yuan, W Su, L Wu',
    journal: 'Journal of Computational Physics',
-   volume: '',
+   volume: '467: 111436',
    year: '2022',
    src: '/publications/J25.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2022.111436'}
