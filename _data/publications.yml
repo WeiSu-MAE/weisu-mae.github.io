@@ -35,6 +35,14 @@ preprint:
    src: '/publications/P1.pdf'}
 
 journal:
+- {title: 'Kinetic modeling of nonequilibrium flow of hard-sphere dense gases.',
+   author: 'W Su, L Gibelli, J Li, M Borg, Y Zhang',
+   journal: 'Physical Review Fluids',
+   volume: '8: 013401',
+   year: '2023',
+   src: '/publications/J26.pdf',
+   doi: 'https://doi.org/10.1103/PhysRevFluids.8.013401'}
+
 - {title: 'A fast-converging scheme for the phonon Boltzmann equation with dual relaxation times.',
    author: 'J Liu, C Zhang, H Yuan, W Su, L Wu',
    journal: 'Journal of Computational Physics',
