@@ -24,17 +24,20 @@ featured:
    doi: 'https://doi.org/10.1007/s10915-020-01139-7'}
 
 preprint:
-- {title: 'Highly rarefied gas flows in rough channels of finite length',
-   author: 'Z Shi, Y Zhao, W Su, L Wu',
-   year: '2023',
-   src: '/publications/P2.pdf'}
-
 - {title: 'Non-equilibrium flow of dense inhomogeneous fluids in nano-channels',
    author: 'B Shan, L Ju, W Su, Z Guo, Y Zhang',
    year: '2022',
    src: '/publications/P1.pdf'}
 
 journal:
+- {title: 'Highly rarefied gas flows in rough channels of finite length',
+   author: 'Z Shi, Y Zhao, W Su, L Wu',
+   journal: 'AIP Advances',
+   volume: 'Accepted',
+   year: '2023',
+   src: '/publications/J27.pdf',
+   doi: ''}
+
 - {title: 'Kinetic modeling of nonequilibrium flow of hard-sphere dense gases.',
    author: 'W Su, L Gibelli, J Li, M Borg, Y Zhang',
    journal: 'Physical Review Fluids',
