@@ -29,14 +29,19 @@ preprint:
    year: '2022',
    src: '/publications/P1.pdf'}
 
-journal:
 - {title: 'Highly rarefied gas flows in rough channels of finite length',
    author: 'Z Shi, Y Zhao, W Su, L Wu',
-   journal: 'AIP Advances',
-   volume: 'Accepted',
+   year: '2023',
+   src: '/publications/P2.pdf',
+
+journal:
+- {title: 'Non-equilibrium flow of van der Waals fluids in nanochannels.',
+   author: 'B Shan, L Ju, W Su, Z Guo, Y Zhang',
+   journal: 'Physics of Fluids',
+   volume: '35: 052004',
    year: '2023',
    src: '/publications/J27.pdf',
-   doi: ''}
+   doi: 'https://doi.org/10.1063/5.0148857'}
 
 - {title: 'Kinetic modeling of nonequilibrium flow of hard-sphere dense gases.',
    author: 'W Su, L Gibelli, J Li, M Borg, Y Zhang',
