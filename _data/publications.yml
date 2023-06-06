@@ -35,6 +35,14 @@ preprint:
    src: '/publications/P2.pdf',
 
 journal:
+- {title: 'General synthetic iterative scheme for unsteady rarefied gas flows.',
+   author: 'J Zeng, W Su, L Wu',
+   journal: 'Communications in Computational Physics',
+   volume: '',
+   year: '2023',
+   src: '/publications/J28.pdf',
+   doi: ''}
+
 - {title: 'Non-equilibrium flow of van der Waals fluids in nanochannels.',
    author: 'B Shan, L Ju, W Su, Z Guo, Y Zhang',
    journal: 'Physics of Fluids',
