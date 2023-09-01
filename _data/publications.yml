@@ -41,7 +41,7 @@ journal:
    volume: '',
    year: '2023',
    src: '/publications/J28.pdf',
-   doi: ''}
+   doi: 'https://doi.org/10.4208/cicp.OA-2023-0068'}
 
 - {title: 'Non-equilibrium flow of van der Waals fluids in nanochannels.',
    author: 'B Shan, L Ju, W Su, Z Guo, Y Zhang',
