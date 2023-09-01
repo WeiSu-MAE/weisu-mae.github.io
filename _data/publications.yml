@@ -24,21 +24,24 @@ featured:
    doi: 'https://doi.org/10.1007/s10915-020-01139-7'}
 
 preprint:
-- {title: 'Non-equilibrium flow of dense inhomogeneous fluids in nano-channels',
-   author: 'B Shan, L Ju, W Su, Z Guo, Y Zhang',
-   year: '2022',
-   src: '/publications/P1.pdf'}
-
 - {title: 'Highly rarefied gas flows in rough channels of finite length',
    author: 'Z Shi, Y Zhao, W Su, L Wu',
    year: '2023',
-   src: '/publications/P2.pdf'}
+   src: '/publications/P1.pdf'}
 
 journal:
+- {title: 'Sound wave propagation in rarefied molecular gases.',
+   author: 'S Li, W Su, Y Zhang',
+   journal: 'Journal of Fluid Mechanics',
+   volume: '',
+   year: '2023',
+   src: '/publications/J29.pdf',
+   doi: ''}
+
 - {title: 'General synthetic iterative scheme for unsteady rarefied gas flows.',
    author: 'J Zeng, W Su, L Wu',
    journal: 'Communications in Computational Physics',
-   volume: '',
+   volume: '34: 173-207',
    year: '2023',
    src: '/publications/J28.pdf',
    doi: 'https://doi.org/10.4208/cicp.OA-2023-0068'}
