@@ -28,7 +28,8 @@ layout: default
   <div class="grid-container mt-3">
     <div class="grid-item"><img class="circular_image" src="{{ person.image }}" /></div>
     <div class="grid-item wide">
-      <p class="mb-0"><span class=" fw-bold">{{ person.title }} {{ person.name }}</span></p>
+      <p class="mb-0"><span class=" fw-bold">{{ person.name }}</span><span>, {{ person.position }}</span></p>
+      <p class="mb-0">Ph.D: {{ person.phd }}</p>
     </div>
   </div>
   {% endfor %}

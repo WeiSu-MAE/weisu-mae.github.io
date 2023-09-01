@@ -19,11 +19,11 @@ PI:
 
 Postdoc:
 - {name: 'Wei Liu',
-   title: 'Dr',
+   position: 'Postdoctoral Researcher',
    image: 'assets/img/wei-liu.jpg',
    email: '',
    office: '4384',
-   degree: 'PhD@'
+   phd: 'National University of Singapore'
    }
 
 #PhD:
