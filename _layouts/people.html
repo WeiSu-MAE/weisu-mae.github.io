@@ -37,6 +37,19 @@ layout: default
     </div>
   </div>
   {% endfor %}
+  <h5 class="fw-bold mb-3">PhD Students</h5>
+  {% for person in site.data.people.PhD %}
+  <div class="grid-container mt-3">
+    <div class="grid-item"><img class="circular_image" src="{{ person.image }}" /></div>
+    <div class="grid-item wide">
+      <p class="mb-0"><span class=" fw-bold">{{ person.name }}</span><span>, {{ person.program }}</span></p>
+      <p class="mb-0">{{ person.master }}</p>
+      <p class="mb-0">{{ person.bachelor }}</p>
+      <p class="mb-0">Email: {{ person.email }}</p>
+      <p class="mb-0">Research: {{ person.topic }}</p>
+    </div>
+  </div>
+  {% endfor %}
 </div>
 </div>
 
