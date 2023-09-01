@@ -6,7 +6,6 @@ PI:
    phone: '(852) 3469 2415',
    email: 'weisu@ust.hk',
    office: '4340',
-   building: 'Academic Building',
    department: 'Division of Emerging Interdisciplinary Areas & Department of Mathematics',
    institution: 'HKUST',
    address: 'Clear Water Bay, Hong Kong',
@@ -23,10 +22,22 @@ Postdoc:
    image: 'assets/img/wei-liu.jpg',
    email: '',
    office: '4384',
-   phd: 'National University of Singapore'
+   phd: 'PhD.E.: National University of Singapore',
+   master: 'M.E.: Xian Jaotong Univeristy',
+   bachelor: 'B.E.: China University of Petroleum (Qingtao)',
+   topic: ''
    }
 
-#PhD:
+PhD:
+- {name: 'Dingtao Shen',
+   program: 'IIP (09/2023 - )',
+   image: 'assets/img/dingtao-shen.jpg',
+   email: 'dingtao.shen@connect.ust.hk',
+   office: '',
+   master: 'M.S.: University of Wisconsin-Madison',
+   bachelor: 'B.S.: Zhejiang University',
+   topic: 'High-fidelity solution methods for Boltzmann tansport equation-based modelling of phonon heat conduction'
+  }
 
 #Master:
 

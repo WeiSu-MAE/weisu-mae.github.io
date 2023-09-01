@@ -17,7 +17,7 @@ layout: default
       <!--<p class="mb-0">{{ person.degree }}</p>-->
       <p class="mb-0">Email: {{ person.email }}</p>
       <p class="mb-0">Phone: {{ person.phone }}</p>
-      <p class="mb-0">Office: {{ person.building }} {{ person.office }} </p>
+      <p class="mb-0">Office: {{ person.office }} </p>
       <p class="mb-0">Address: {{ person.institution }}, {{ person.address }}</p>
       <p class="mb-0">More info: <a class="four" href="{{ person.cv }}">CV </a><a class="four" href="{{ person.googlescholar }}"><i class="fab fa-google"></i> </a><a class="four" href="{{ person.researchgate }}"><i class="fab fa-researchgate"></i> </a><a class="four" href="{{ person.linkdin }}"><i class="fab fa-linkedin"></i></a></p>
     </div>
@@ -29,7 +29,11 @@ layout: default
     <div class="grid-item"><img class="circular_image" src="{{ person.image }}" /></div>
     <div class="grid-item wide">
       <p class="mb-0"><span class=" fw-bold">{{ person.name }}</span><span>, {{ person.position }}</span></p>
-      <p class="mb-0">Ph.D: {{ person.phd }}</p>
+      <p class="mb-0">{{ person.phd }}</p>
+      <p class="mb-0">{{ person.master }}</p>
+      <p class="mb-0">{{ person.bachelor }}</p>
+      <p class="mb-0">Email: {{ person.email }}</p>
+      <p class="mb-0">Research: {{ person.topic }}</p>
     </div>
   </div>
   {% endfor %}
