@@ -22,9 +22,9 @@ Postdoc:
    image: 'assets/img/wei-liu.jpg',
    email: '',
    office: '4384',
-   phd: 'PhD.E.: National University of Singapore',
-   master: 'M.E.: Xian Jaotong Univeristy',
-   bachelor: 'B.E.: China University of Petroleum (Qingtao)',
+   phd: 'PhD. E.: National University of Singapore',
+   master: 'M. E.: Xian Jaotong Univeristy',
+   bachelor: 'B. E.: China University of Petroleum (Qingtao)',
    topic: ''
    }
 
@@ -34,8 +34,8 @@ PhD:
    image: 'assets/img/dingtao-shen.jpg',
    email: 'dingtao.shen@connect.ust.hk',
    office: '',
-   master: 'M.S.: University of Wisconsin-Madison',
-   bachelor: 'B.S.: Zhejiang University',
+   master: 'M. S.: University of Wisconsin-Madison',
+   bachelor: 'B. S.: Zhejiang University',
    topic: 'High-fidelity solution methods for Boltzmann tansport equation-based modelling of phonon heat conduction'
   }
 
