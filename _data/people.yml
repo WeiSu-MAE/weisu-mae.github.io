@@ -21,6 +21,9 @@ Postdoc:
 - {name: 'Wei Liu',
    title: 'Dr',
    image: 'assets/img/wei-liu.jpg',
+   email: '',
+   office: '4384',
+   degree: 'PhD@'
    }
 
 #PhD:
