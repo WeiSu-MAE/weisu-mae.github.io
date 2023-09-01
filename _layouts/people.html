@@ -22,8 +22,16 @@ layout: default
       <p class="mb-0">More info: <a class="four" href="{{ person.cv }}">CV </a><a class="four" href="{{ person.googlescholar }}"><i class="fab fa-google"></i> </a><a class="four" href="{{ person.researchgate }}"><i class="fab fa-researchgate"></i> </a><a class="four" href="{{ person.linkdin }}"><i class="fab fa-linkedin"></i></a></p>
     </div>
   </div>
+  {% endfor %}
   <h5 class="fw-bold mb-3">Postdoc & RA</h5>
-{% endfor %}
+  {% for person in site.data.people.Postdoc %}
+  <div class="grid-container border-bottom mt-3">
+    <div class="grid-item"><img class="circular_image" src="{{ person.image }}" /></div>
+    <div class="grid-item wide">
+      <p class="mb-0"><span class=" fw-bold">{{ person.title }} {{ person.name }}</span></p>
+    </div>
+  </div>
+  {% endfor %}
 </div>
 </div>
 

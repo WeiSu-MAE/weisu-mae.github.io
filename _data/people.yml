@@ -19,7 +19,8 @@ PI:
 
 Postdoc:
 - {name: 'Wei Liu',
-   title: 'Dr'
+   title: 'Dr',
+   image: 'assets/img/wei-liu.jpg',
    }
 
 #PhD:
