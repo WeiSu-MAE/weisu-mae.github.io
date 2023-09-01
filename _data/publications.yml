@@ -32,7 +32,7 @@ preprint:
 - {title: 'Highly rarefied gas flows in rough channels of finite length',
    author: 'Z Shi, Y Zhao, W Su, L Wu',
    year: '2023',
-   src: '/publications/P2.pdf',
+   src: '/publications/P2.pdf'}
 
 journal:
 - {title: 'General synthetic iterative scheme for unsteady rarefied gas flows.',
