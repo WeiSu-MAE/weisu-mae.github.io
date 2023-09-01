@@ -32,7 +32,7 @@ layout: default
       <p class="mb-0">{{ person.phd }}</p>
       <p class="mb-0">{{ person.master }}</p>
       <p class="mb-0">{{ person.bachelor }}</p>
-      <p class="mb-0">Email: {{ person.email }}</p>
+      <p class="mb-0">Email: <a class="four" href="mailto: {{ person.email }}">{{ person.email }}</a></p>
       <p class="mb-0">Research: {{ person.topic }}</p>
     </div>
   </div>
@@ -45,7 +45,7 @@ layout: default
       <p class="mb-0"><span class=" fw-bold">{{ person.name }}</span><span>, {{ person.program }}</span></p>
       <p class="mb-0">{{ person.master }}</p>
       <p class="mb-0">{{ person.bachelor }}</p>
-      <p class="mb-0">Email: {{ person.email }}</p>
+      <p class="mb-0">Email: <a class="four" href="mailto: {{ person.email }}">{{ person.email }}</a></p>
       <p class="mb-0">Research: {{ person.topic }}</p>
     </div>
   </div>
