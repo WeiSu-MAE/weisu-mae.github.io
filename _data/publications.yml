@@ -23,20 +23,36 @@ featured:
    src: '/publications/J16.pdf',
    doi: 'https://doi.org/10.1007/s10915-020-01139-7'}
 
-preprint:
-- {title: 'Highly rarefied gas flows in rough channels of finite length',
-   author: 'Z Shi, Y Zhao, W Su, L Wu',
-   year: '2023',
-   src: '/publications/P1.pdf'}
+#preprint:
+#- {title: 'Highly rarefied gas flows in rough channels of finite length',
+#   author: 'Z Shi, Y Zhao, W Su, L Wu',
+#   year: '2023',
+#   src: '/publications/P1.pdf'}
 
 journal:
+- {title: 'Molecular kinetic modelling of non-equilibrium transport of confined van der Waals fluids.',
+   author: 'B Shan, W Su, L Gibelli, Y Zhang',
+   journal: 'Journal of Fluid Mechanics',
+   volume: '976: A7',
+   year: '2023',
+   src: '/publications/J31.pdf',
+   doi: 'https://doi.org/10.1017/jfm.2023.893'}
+
+- {title: 'Highly rarefied gas flows in rough channels of finite length.',
+   author: 'Z Shi, Y Zhao, W Su, L Wu',
+   journal: 'Advances in Aerodynamics',
+   volume: '5: 27',
+   year: '2023',
+   src: '/publications/J30.pdf',
+   doi: 'https://doi.org/10.1186/s42774-023-00159-9'}
+
 - {title: 'Sound wave propagation in rarefied molecular gases.',
    author: 'S Li, W Su, Y Zhang',
    journal: 'Journal of Fluid Mechanics',
-   volume: '',
+   volume: '973: A35',
    year: '2023',
    src: '/publications/J29.pdf',
-   doi: ''}
+   doi: 'https://doi.org/10.1017/jfm.2023.698'}
 
 - {title: 'General synthetic iterative scheme for unsteady rarefied gas flows.',
    author: 'J Zeng, W Su, L Wu',
