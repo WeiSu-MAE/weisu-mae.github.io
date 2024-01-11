@@ -20,12 +20,12 @@ Postdoc:
 - {name: 'Wei Liu',
    position: 'Postdoctoral Researcher',
    image: 'assets/img/wei-liu.jpg',
-   email: '',
+   email: 'weilemia@ust.hk',
    office: '4384',
    phd: 'PhD. E.: National University of Singapore',
    master: 'M. E.: Xian Jiaotong Univeristy',
    bachelor: 'B. E.: China University of Petroleum (Qingtao)',
-   topic: ''
+   topic: 'Multiscale modelling of nonequilibrium gas flows'
    }
 
 PhD:
