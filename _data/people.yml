@@ -21,10 +21,27 @@ PhD:
    program: 'IIP (09/2023 - )',
    image: 'assets/img/dingtao-shen.jpeg',
    email: 'dingtao.shen@connect.ust.hk',
-   office: '',
    master: 'M. S.: University of Wisconsin-Madison',
    bachelor: 'B. S.: Zhejiang University',
    topic: 'High-fidelity solution methods for Boltzmann transport equation-based modelling of phonon heat conduction'
+  }
+
+- {name: 'Yunqin Liu',
+   program: 'IIP (02/2024 - )',
+   image: '',
+   email: 'yliuns@connect.ust.hk',
+   master: 'M. Eng.: Beihang University',
+   bachelor: 'B. Eng.: Beihang University',
+   topic: 'Reduced order methods for Boltzmann transport equation-based modelling of phonon heat conduction'
+  }
+
+- {name: 'Jia Liu',
+   program: 'IIP (09/2024 - )',
+   image: '',
+   email: '',
+   master: 'M. Eng.: Southern University of Science & Technology',
+   bachelor: 'B. S.: Xiangtan University',
+   topic: ''
   }
 
 #Postdoc:
