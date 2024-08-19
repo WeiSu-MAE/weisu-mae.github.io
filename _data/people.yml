@@ -16,6 +16,17 @@ PI:
    linkdin: 'https://www.linkedin.com/in/wei-su-24373899'
    }
 
+PhD:
+- {name: 'Dingtao Shen',
+   program: 'IIP (09/2023 - )',
+   image: 'assets/img/dingtao-shen.jpeg',
+   email: 'dingtao.shen@connect.ust.hk',
+   office: '',
+   master: 'M. S.: University of Wisconsin-Madison',
+   bachelor: 'B. S.: Zhejiang University',
+   topic: 'High-fidelity solution methods for Boltzmann transport equation-based modelling of phonon heat conduction'
+  }
+
 #Postdoc:
 #- {name: '',
 #   position: '',
@@ -27,17 +38,6 @@ PI:
 #   bachelor: '',
 #   topic: ''
 #   }
-
-PhD:
-- {name: 'Dingtao Shen',
-   program: 'IIP (09/2023 - )',
-   image: 'assets/img/dingtao-shen.jpeg',
-   email: 'dingtao.shen@connect.ust.hk',
-   office: '',
-   master: 'M. S.: University of Wisconsin-Madison',
-   bachelor: 'B. S.: Zhejiang University',
-   topic: 'High-fidelity solution methods for Boltzmann transport equation-based modelling of phonon heat conduction'
-  }
 
 #Master:
 
