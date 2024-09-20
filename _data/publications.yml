@@ -30,6 +30,14 @@ featured:
 #   src: '/publications/P1.pdf'}
 
 journal:
+- {title: 'Molecular kinetic modelling of non-equilibrium evaporative flows.',
+   author: 'S Li, W Su, B Shan, Z Li, L Gibelli, Y Zhang',
+   journal: 'Journal of Fluid Mechanics',
+   volume: '994: A16',
+   year: '2024',
+   src: '/publications/J32.pdf',
+   doi: 'https://doi.org/10.1017/jfm.2024.605'}
+
 - {title: 'Molecular kinetic modelling of non-equilibrium transport of confined van der Waals fluids.',
    author: 'B Shan, W Su, L Gibelli, Y Zhang',
    journal: 'Journal of Fluid Mechanics',
